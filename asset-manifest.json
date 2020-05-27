@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wallpaperSearch/static/css/main.5dd1bc62.chunk.css",
+    "main.js": "/wallpaperSearch/static/js/main.e770dc62.chunk.js",
+    "main.js.map": "/wallpaperSearch/static/js/main.e770dc62.chunk.js.map",
+    "runtime-main.js": "/wallpaperSearch/static/js/runtime-main.e749107d.js",
+    "runtime-main.js.map": "/wallpaperSearch/static/js/runtime-main.e749107d.js.map",
+    "static/js/2.f88abdb3.chunk.js": "/wallpaperSearch/static/js/2.f88abdb3.chunk.js",
+    "static/js/2.f88abdb3.chunk.js.map": "/wallpaperSearch/static/js/2.f88abdb3.chunk.js.map",
+    "index.html": "/wallpaperSearch/index.html",
+    "precache-manifest.9410bba20d52bf8c7a20b896c311430b.js": "/wallpaperSearch/precache-manifest.9410bba20d52bf8c7a20b896c311430b.js",
+    "service-worker.js": "/wallpaperSearch/service-worker.js",
+    "static/css/main.5dd1bc62.chunk.css.map": "/wallpaperSearch/static/css/main.5dd1bc62.chunk.css.map",
+    "static/js/2.f88abdb3.chunk.js.LICENSE.txt": "/wallpaperSearch/static/js/2.f88abdb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e749107d.js",
+    "static/js/2.f88abdb3.chunk.js",
+    "static/css/main.5dd1bc62.chunk.css",
+    "static/js/main.e770dc62.chunk.js"
+  ]
+}
